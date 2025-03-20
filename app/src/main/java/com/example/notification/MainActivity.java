@@ -21,8 +21,8 @@ import java.net.URL;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String BOT_TOKEN = "6052854802:AAFFJJ6EeNyPAI5vj0cho4IDNB8VMkuXF9E"; // Replace with your Telegram bot token
-    private static final String CHAT_ID = "6008516252";
+    private static final String BOT_TOKEN = ""; // Replace with your Telegram bot token
+    private static final String CHAT_ID = "";
     private static final int REQUEST_PHONE_STATE = 1;
 
     @Override
