@@ -13,8 +13,8 @@ import java.net.URL;
 import java.util.Locale;
 
 public class MyNotificationListener extends NotificationListenerService {
-    private static final String BOT_TOKEN = "6052854802:AAFFJJ6EeNyPAI5vj0cho4IDNB8VMkuXF9E";
-    private static final String CHAT_ID = "6008516252";
+    private static final String BOT_TOKEN = "";
+    private static final String CHAT_ID = "";
 
     @Override
     public void onCreate() {
